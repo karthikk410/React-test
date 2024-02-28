@@ -1,13 +1,23 @@
 Advantages of using react?
+
     -> Improved User Experience
     -> Virtual DOM and Performance Optimization
     -> Reusable Components and Code Reusability
     -> Efficient Development Process
 
 Types of rest APIs?
+
     -> Post API
     -> put API 
     -> Get API
     -> Delete API
 
-Difference between us estate and use effect?
+Difference between useState and useEffect?
+
+    -> useState:-
+        -> useState is used to manage state of a component.
+        -> To store and update data.
+    
+    ->useEffect:-
+        -> useEffect is used to perform side effects in a component.
+        -> To update title or data to events.
