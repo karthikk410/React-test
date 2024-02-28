@@ -1,0 +1,13 @@
+Advantages of using react?
+    -> Improved User Experience
+    -> Virtual DOM and Performance Optimization
+    -> Reusable Components and Code Reusability
+    -> Efficient Development Process
+
+Types of rest APIs?
+    -> Post API
+    -> put API 
+    -> Get API
+    -> Delete API
+
+Difference between us estate and use effect?
